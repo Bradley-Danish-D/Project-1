@@ -49,6 +49,7 @@ def intro():
     print("\t\t\t\t**********************")
     print("\t\t\t\tBANK MANAGEMENT SYSTEM")
     print("\t\t\t\t**********************")
+    print("Bradley Danish")
  
      
     input("Press Enter To Contiune: ")
