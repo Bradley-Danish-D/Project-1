@@ -98,6 +98,6 @@ The slection between login and sign up is done by an `if` statement. The pulling
 
 It either take username & password and store in a binary file or it verfiy the if the username & password correct.
 
-# Note
+#### Note
 
 There are some bugs in the above code, I hope to improve in the future.
